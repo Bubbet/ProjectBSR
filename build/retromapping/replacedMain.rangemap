@@ -1,0 +1,325 @@
+Symbol range map extraction starting
+Processing 10 files
+startProcessing "com\bubbet\projectbsr\ProjectBSR.java" md5: 0fcd6b4a06d156ea14bb6f3bb078adf9
+@|com\bubbet\projectbsr\ProjectBSR.java|8|29|com.bubbet.projectbsr|package|com.bubbet.projectbsr|(file)
+Class Start: com.bubbet.projectbsr.ProjectBSR
+   @|com\bubbet\projectbsr\ProjectBSR.java|168|171|Mod|class|net.minecraftforge.fml.common.Mod
+   @|com\bubbet\projectbsr\ProjectBSR.java|181|186|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|com\bubbet\projectbsr\ProjectBSR.java|211|215|name|method|net.minecraftforge.fml.common.Mod|name|()Ljava/lang/String;
+   @|com\bubbet\projectbsr\ProjectBSR.java|240|247|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
+   @|com\bubbet\projectbsr\ProjectBSR.java|265|277|dependencies|method|net.minecraftforge.fml.common.Mod|dependencies|()Ljava/lang/String;
+   @|com\bubbet\projectbsr\ProjectBSR.java|364|374|ProjectBSR|class|com.bubbet.projectbsr.ProjectBSR
+   @|com\bubbet\projectbsr\ProjectBSR.java|428|438|ProjectBSR|class|com.bubbet.projectbsr.ProjectBSR
+   @|com\bubbet\projectbsr\ProjectBSR.java|383|395|Mod.Instance|class|net.minecraftforge.fml.common.Mod.Instance
+   @|com\bubbet\projectbsr\ProjectBSR.java|428|438|ProjectBSR|class|com.bubbet.projectbsr.ProjectBSR
+   @|com\bubbet\projectbsr\ProjectBSR.java|439|447|instance|field|com.bubbet.projectbsr.ProjectBSR|instance|
+   @|com\bubbet\projectbsr\ProjectBSR.java|585|591|Common|class|com.bubbet.projectbsr.proxy.Common
+   @|com\bubbet\projectbsr\ProjectBSR.java|455|465|SidedProxy|class|net.minecraftforge.fml.common.SidedProxy
+   @|com\bubbet\projectbsr\ProjectBSR.java|466|476|clientSide|method|net.minecraftforge.fml.common.SidedProxy|clientSide|()Ljava/lang/String;
+   @|com\bubbet\projectbsr\ProjectBSR.java|516|526|serverSide|method|net.minecraftforge.fml.common.SidedProxy|serverSide|()Ljava/lang/String;
+   @|com\bubbet\projectbsr\ProjectBSR.java|585|591|Common|class|com.bubbet.projectbsr.proxy.Common
+   @|com\bubbet\projectbsr\ProjectBSR.java|592|597|proxy|field|com.bubbet.projectbsr.ProjectBSR|proxy|
+Class End  : com.bubbet.projectbsr.ProjectBSR
+endProcessing "com\bubbet\projectbsr\ProjectBSR.java"
+
+startProcessing "com\bubbet\projectbsr\init\ModBlocks.java" md5: 0221f964d713edcf93838c13f72c40d9
+Cache Hit!
+@|com\bubbet\projectbsr\init\ModBlocks.java|8|34|com.bubbet.projectbsr.init|package|com.bubbet.projectbsr.init|(file)
+Class Start: com.bubbet.projectbsr.init.ModBlocks
+   @|com\bubbet\projectbsr\init\ModBlocks.java|137|146|ModBlocks|class|com.bubbet.projectbsr.init.ModBlocks
+   @|com\bubbet\projectbsr\init\ModBlocks.java|179|184|Block|class|net.minecraft.block.Block
+   @|com\bubbet\projectbsr\init\ModBlocks.java|174|178|List|class|java.util.List
+   @|com\bubbet\projectbsr\init\ModBlocks.java|174|178|List|class|java.util.List
+   @|com\bubbet\projectbsr\init\ModBlocks.java|179|184|Block|class|net.minecraft.block.Block
+   @|com\bubbet\projectbsr\init\ModBlocks.java|186|192|BLOCKS|field|com.bubbet.projectbsr.init.ModBlocks|BLOCKS|
+   @|com\bubbet\projectbsr\init\ModBlocks.java|199|208|ArrayList|class|java.util.ArrayList
+   @|com\bubbet\projectbsr\init\ModBlocks.java|209|214|Block|class|net.minecraft.block.Block
+Class End  : com.bubbet.projectbsr.init.ModBlocks
+endProcessing "com\bubbet\projectbsr\init\ModBlocks.java"
+
+startProcessing "com\bubbet\projectbsr\init\ModItems.java" md5: 13b8eb03babf11775875be4fb599e940
+Cache Hit!
+@|com\bubbet\projectbsr\init\ModItems.java|8|34|com.bubbet.projectbsr.init|package|com.bubbet.projectbsr.init|(file)
+Class Start: com.bubbet.projectbsr.init.ModItems
+   @|com\bubbet\projectbsr\init\ModItems.java|394|402|ModItems|class|com.bubbet.projectbsr.init.ModItems
+   @|com\bubbet\projectbsr\init\ModItems.java|435|439|Item|class|net.minecraft.item.Item
+   @|com\bubbet\projectbsr\init\ModItems.java|430|434|List|class|java.util.List
+   @|com\bubbet\projectbsr\init\ModItems.java|430|434|List|class|java.util.List
+   @|com\bubbet\projectbsr\init\ModItems.java|435|439|Item|class|net.minecraft.item.Item
+   @|com\bubbet\projectbsr\init\ModItems.java|441|446|ITEMS|field|com.bubbet.projectbsr.init.ModItems|ITEMS|
+   @|com\bubbet\projectbsr\init\ModItems.java|453|462|ArrayList|class|java.util.ArrayList
+   @|com\bubbet\projectbsr\init\ModItems.java|463|467|Item|class|net.minecraft.item.Item
+Class End  : com.bubbet.projectbsr.init.ModItems
+endProcessing "com\bubbet\projectbsr\init\ModItems.java"
+
+startProcessing "com\bubbet\projectbsr\items\ItemBase.java" md5: aceb8aca67b61092329b6525cfd71196
+Cache Hit!
+@|com\bubbet\projectbsr\items\ItemBase.java|8|35|com.bubbet.projectbsr.items|package|com.bubbet.projectbsr.items|(file)
+Class Start: com.bubbet.projectbsr.items.ItemBase
+   @|com\bubbet\projectbsr\items\ItemBase.java|225|233|ItemBase|class|com.bubbet.projectbsr.items.ItemBase
+   @|com\bubbet\projectbsr\items\ItemBase.java|242|246|Item|class|net.minecraft.item.Item
+   @|com\bubbet\projectbsr\items\ItemBase.java|258|267|LHasModel|class|com.bubbet.projectbsr.util.interfaces.LHasModel
+   Method Start: ItemBase(Ljava/lang/String;)V
+      @|com\bubbet\projectbsr\items\ItemBase.java|298|302|name|param|com.bubbet.projectbsr.items.ItemBase|ItemBase|(Ljava/lang/String;)V|name|0
+      @|com\bubbet\projectbsr\items\ItemBase.java|282|290|ItemBase|method|com.bubbet.projectbsr.items.ItemBase|ItemBase|(Ljava/lang/String;)V
+      @|com\bubbet\projectbsr\items\ItemBase.java|291|297|String|class|java.lang.String
+      @|com\bubbet\projectbsr\items\ItemBase.java|314|332|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|com\bubbet\projectbsr\items\ItemBase.java|333|337|name|param|com.bubbet.projectbsr.items.ItemBase|ItemBase|(Ljava/lang/String;)V|name|0
+      @|com\bubbet\projectbsr\items\ItemBase.java|348|363|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|com\bubbet\projectbsr\items\ItemBase.java|364|368|name|param|com.bubbet.projectbsr.items.ItemBase|ItemBase|(Ljava/lang/String;)V|name|0
+      @|com\bubbet\projectbsr\items\ItemBase.java|380|388|ModItems|class|com.bubbet.projectbsr.init.ModItems
+      @|com\bubbet\projectbsr\items\ItemBase.java|389|394|ITEMS|field|com.bubbet.projectbsr.init.ModItems|ITEMS
+      @|com\bubbet\projectbsr\items\ItemBase.java|395|398|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+   Method End: ItemBase(Ljava/lang/String;)V
+   Method Start: registerModels()V
+      @|com\bubbet\projectbsr\items\ItemBase.java|419|427|Override|class|java.lang.Override
+      @|com\bubbet\projectbsr\items\ItemBase.java|444|458|registerModels|method|com.bubbet.projectbsr.util.interfaces.LHasModel|registerModels|()V
+      @|com\bubbet\projectbsr\items\ItemBase.java|470|480|ProjectBSR|class|com.bubbet.projectbsr.ProjectBSR
+      @|com\bubbet\projectbsr\items\ItemBase.java|481|486|proxy|field|com.bubbet.projectbsr.ProjectBSR|proxy
+      @|com\bubbet\projectbsr\items\ItemBase.java|487|507|registerItemRenderer|method|com.bubbet.projectbsr.proxy.Common|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+   Method End: registerModels()V
+Class End  : com.bubbet.projectbsr.items.ItemBase
+endProcessing "com\bubbet\projectbsr\items\ItemBase.java"
+
+startProcessing "com\bubbet\projectbsr\modules\ModuleApiaristSink.java" md5: 1b84fc95f695a3c2297227c4af48bf64
+Cache Hit!
+@|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|8|37|com.bubbet.projectbsr.modules|package|com.bubbet.projectbsr.modules|(file)
+Class Start: com.bubbet.projectbsr.modules.ModuleApiaristSink
+   @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|326|344|ModuleApiaristSink|class|com.bubbet.projectbsr.modules.ModuleApiaristSink
+   @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|353|368|LogisticsModule|class|logisticspipes.modules.abstractmodules.LogisticsModule
+   Method Start: readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|429|443|nbttagcompound|param|com.bubbet.projectbsr.modules.ModuleApiaristSink|readFromNBT|(Lnet/minecraft/nbt/NBTTagCompound;)V|nbttagcompound|0
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|377|385|Override|class|java.lang.Override
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|402|413|readFromNBT|method|logisticspipes.interfaces.routing.ISaveState|readFromNBT|(Lnet/minecraft/nbt/NBTTagCompound;)V
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|414|428|NBTTagCompound|class|net.minecraft.nbt.NBTTagCompound
+   Method End: readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V
+   Method Start: writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)V
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|505|519|nbttagcompound|param|com.bubbet.projectbsr.modules.ModuleApiaristSink|writeToNBT|(Lnet/minecraft/nbt/NBTTagCompound;)V|nbttagcompound|0
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|454|462|Override|class|java.lang.Override
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|479|489|writeToNBT|method|logisticspipes.interfaces.routing.ISaveState|writeToNBT|(Lnet/minecraft/nbt/NBTTagCompound;)V
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|490|504|NBTTagCompound|class|net.minecraft.nbt.NBTTagCompound
+   Method End: writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)V
+   Method Start: getX()I
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|530|538|Override|class|java.lang.Override
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|554|558|getX|method|logisticspipes.modules.abstractmodules.LogisticsModule|getX|()I
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|575|579|slot|field|logisticspipes.modules.abstractmodules.LogisticsModule|slot
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|580|589|isInWorld|method|logisticspipes.modules.abstractmodules.LogisticsModule.ModulePositionType|isInWorld|()Z
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|614|622|_service|field|logisticspipes.modules.abstractmodules.LogisticsModule|_service
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|623|627|getX|method|logisticspipes.api.IRoutedPowerProvider|getX|()I
+   Method End: getX()I
+   Method Start: getY()I
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|692|700|Override|class|java.lang.Override
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|716|720|getY|method|logisticspipes.modules.abstractmodules.LogisticsModule|getY|()I
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|737|741|slot|field|logisticspipes.modules.abstractmodules.LogisticsModule|slot
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|742|751|isInWorld|method|logisticspipes.modules.abstractmodules.LogisticsModule.ModulePositionType|isInWorld|()Z
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|776|784|_service|field|logisticspipes.modules.abstractmodules.LogisticsModule|_service
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|785|789|getY|method|logisticspipes.api.IRoutedPowerProvider|getY|()I
+   Method End: getY()I
+   Method Start: getZ()I
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|854|862|Override|class|java.lang.Override
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|878|882|getZ|method|logisticspipes.modules.abstractmodules.LogisticsModule|getZ|()I
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|899|903|slot|field|logisticspipes.modules.abstractmodules.LogisticsModule|slot
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|904|913|isInWorld|method|logisticspipes.modules.abstractmodules.LogisticsModule.ModulePositionType|isInWorld|()Z
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|938|946|_service|field|logisticspipes.modules.abstractmodules.LogisticsModule|_service
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|947|951|getZ|method|logisticspipes.api.IRoutedPowerProvider|getZ|()I
+   Method End: getZ()I
+   @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1024|1033|SinkReply|class|logisticspipes.utils.SinkReply
+   @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1024|1033|SinkReply|class|logisticspipes.utils.SinkReply
+   @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1034|1044|_sinkReply|field|com.bubbet.projectbsr.modules.ModuleApiaristSink|_sinkReply|
+   Method Start: registerPosition(Llogisticspipes/modules/abstractmodules/LogisticsModule$ModulePositionType;I)V
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1113|1117|slot|param|com.bubbet.projectbsr.modules.ModuleApiaristSink|registerPosition|(Llogisticspipes/modules/abstractmodules/LogisticsModule$ModulePositionType;I)V|slot|0
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1123|1134|positionInt|param|com.bubbet.projectbsr.modules.ModuleApiaristSink|registerPosition|(Llogisticspipes/modules/abstractmodules/LogisticsModule$ModulePositionType;I)V|positionInt|1
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1052|1060|Override|class|java.lang.Override
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1077|1093|registerPosition|method|logisticspipes.modules.abstractmodules.LogisticsModule|registerPosition|(Llogisticspipes/modules/abstractmodules/LogisticsModule$ModulePositionType;I)V
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1094|1112|ModulePositionType|class|logisticspipes.modules.abstractmodules.LogisticsModule.ModulePositionType
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1152|1168|registerPosition|method|logisticspipes.modules.abstractmodules.LogisticsModule|registerPosition|(Llogisticspipes/modules/abstractmodules/LogisticsModule$ModulePositionType;I)V
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1169|1173|slot|param|com.bubbet.projectbsr.modules.ModuleApiaristSink|registerPosition|(Llogisticspipes/modules/abstractmodules/LogisticsModule$ModulePositionType;I)V|slot|0
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1175|1186|positionInt|param|com.bubbet.projectbsr.modules.ModuleApiaristSink|registerPosition|(Llogisticspipes/modules/abstractmodules/LogisticsModule$ModulePositionType;I)V|positionInt|1
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1197|1207|_sinkReply|field|com.bubbet.projectbsr.modules.ModuleApiaristSink|_sinkReply
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1214|1223|SinkReply|class|logisticspipes.utils.SinkReply
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1224|1247|SinkReply.FixedPriority|class|logisticspipes.utils.SinkReply.FixedPriority
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1248|1267|EnchantmentItemSink|field|logisticspipes.utils.SinkReply.FixedPriority|EnchantmentItemSink
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1295|1338|PipeLogisticsChassi.ChassiTargetInformation|class|logisticspipes.pipes.PipeLogisticsChassi.ChassiTargetInformation
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1339|1353|getPositionInt|method|logisticspipes.modules.abstractmodules.LogisticsModule|getPositionInt|()I
+   Method End: registerPosition(Llogisticspipes/modules/abstractmodules/LogisticsModule$ModulePositionType;I)V
+   Method Start: sinksItem(Llogisticspipes/utils/item/ItemIdentifier;IIZZ)Llogisticspipes/utils/SinkReply;
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1426|1430|item|param|com.bubbet.projectbsr.modules.ModuleApiaristSink|sinksItem|(Llogisticspipes/utils/item/ItemIdentifier;IIZZ)Llogisticspipes/utils/SinkReply;|item|0
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1436|1448|bestPriority|param|com.bubbet.projectbsr.modules.ModuleApiaristSink|sinksItem|(Llogisticspipes/utils/item/ItemIdentifier;IIZZ)Llogisticspipes/utils/SinkReply;|bestPriority|1
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1454|1472|bestCustomPriority|param|com.bubbet.projectbsr.modules.ModuleApiaristSink|sinksItem|(Llogisticspipes/utils/item/ItemIdentifier;IIZZ)Llogisticspipes/utils/SinkReply;|bestCustomPriority|2
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1482|1494|allowDefault|param|com.bubbet.projectbsr.modules.ModuleApiaristSink|sinksItem|(Llogisticspipes/utils/item/ItemIdentifier;IIZZ)Llogisticspipes/utils/SinkReply;|allowDefault|3
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1504|1520|includeInTransit|param|com.bubbet.projectbsr.modules.ModuleApiaristSink|sinksItem|(Llogisticspipes/utils/item/ItemIdentifier;IIZZ)Llogisticspipes/utils/SinkReply;|includeInTransit|4
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1371|1379|Override|class|java.lang.Override
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1391|1400|SinkReply|class|logisticspipes.utils.SinkReply
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1401|1410|sinksItem|method|logisticspipes.modules.abstractmodules.LogisticsModule|sinksItem|(Llogisticspipes/utils/item/ItemIdentifier;IIZZ)Llogisticspipes/utils/SinkReply;
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1411|1425|ItemIdentifier|class|logisticspipes.utils.item.ItemIdentifier
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1643|1655|bestPriority|param|com.bubbet.projectbsr.modules.ModuleApiaristSink|sinksItem|(Llogisticspipes/utils/item/ItemIdentifier;IIZZ)Llogisticspipes/utils/SinkReply;|bestPriority|1
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1658|1668|_sinkReply|field|com.bubbet.projectbsr.modules.ModuleApiaristSink|_sinkReply
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1669|1682|fixedPriority|field|logisticspipes.utils.SinkReply|fixedPriority
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1683|1690|ordinal|method|java.lang.Enum|ordinal|()I
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1697|1709|bestPriority|param|com.bubbet.projectbsr.modules.ModuleApiaristSink|sinksItem|(Llogisticspipes/utils/item/ItemIdentifier;IIZZ)Llogisticspipes/utils/SinkReply;|bestPriority|1
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1713|1723|_sinkReply|field|com.bubbet.projectbsr.modules.ModuleApiaristSink|_sinkReply
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1724|1737|fixedPriority|field|logisticspipes.utils.SinkReply|fixedPriority
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1738|1745|ordinal|method|java.lang.Enum|ordinal|()I
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1751|1769|bestCustomPriority|param|com.bubbet.projectbsr.modules.ModuleApiaristSink|sinksItem|(Llogisticspipes/utils/item/ItemIdentifier;IIZZ)Llogisticspipes/utils/SinkReply;|bestCustomPriority|2
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1773|1783|_sinkReply|field|com.bubbet.projectbsr.modules.ModuleApiaristSink|_sinkReply
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1784|1798|customPriority|field|logisticspipes.utils.SinkReply|customPriority
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1895|1899|item|param|com.bubbet.projectbsr.modules.ModuleApiaristSink|sinksItem|(Llogisticspipes/utils/item/ItemIdentifier;IIZZ)Llogisticspipes/utils/SinkReply;|item|0
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1900|1915|makeNormalStack|method|logisticspipes.utils.item.ItemIdentifier|makeNormalStack|(I)Lnet/minecraft/item/ItemStack;
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1919|1934|isItemEnchanted|method|net.minecraft.item.ItemStack|isItemEnchanted|()Z
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|1959|1969|_sinkReply|field|com.bubbet.projectbsr.modules.ModuleApiaristSink|_sinkReply
+   Method End: sinksItem(Llogisticspipes/utils/item/ItemIdentifier;IIZZ)Llogisticspipes/utils/SinkReply;
+   Method Start: getSubModule(I)Llogisticspipes/modules/abstractmodules/LogisticsModule;
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|2067|2071|slot|param|com.bubbet.projectbsr.modules.ModuleApiaristSink|getSubModule|(I)Llogisticspipes/modules/abstractmodules/LogisticsModule;|slot|0
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|2014|2022|Override|class|java.lang.Override
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|2034|2049|LogisticsModule|class|logisticspipes.modules.abstractmodules.LogisticsModule
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|2050|2062|getSubModule|method|logisticspipes.modules.abstractmodules.LogisticsModule|getSubModule|(I)Llogisticspipes/modules/abstractmodules/LogisticsModule;
+   Method End: getSubModule(I)Llogisticspipes/modules/abstractmodules/LogisticsModule;
+   Method Start: tick()V
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|2108|2116|Override|class|java.lang.Override
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|2133|2137|tick|method|logisticspipes.modules.abstractmodules.LogisticsModule|tick|()V
+   Method End: tick()V
+   Method Start: hasGenericInterests()Z
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|2149|2157|Override|class|java.lang.Override
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|2309|2328|hasGenericInterests|method|logisticspipes.modules.abstractmodules.LogisticsModule|hasGenericInterests|()Z
+   Method End: hasGenericInterests()Z
+   Method Start: getSpecificInterests()Ljava/util/Collection;
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|2366|2374|Override|class|java.lang.Override
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|2516|2526|Collection|class|java.util.Collection
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|2527|2541|ItemIdentifier|class|logisticspipes.utils.item.ItemIdentifier
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|2543|2563|getSpecificInterests|method|logisticspipes.modules.abstractmodules.LogisticsModule|getSpecificInterests|()Ljava/util/Collection;
+   Method End: getSpecificInterests()Ljava/util/Collection;
+   Method Start: interestedInAttachedInventory()Z
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|2601|2609|Override|class|java.lang.Override
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|2629|2658|interestedInAttachedInventory|method|logisticspipes.modules.abstractmodules.LogisticsModule|interestedInAttachedInventory|()Z
+   Method End: interestedInAttachedInventory()Z
+   Method Start: interestedInUndamagedID()Z
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|2697|2705|Override|class|java.lang.Override
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|2725|2748|interestedInUndamagedID|method|logisticspipes.modules.abstractmodules.LogisticsModule|interestedInUndamagedID|()Z
+   Method End: interestedInUndamagedID()Z
+   Method Start: recievePassive()Z
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|2786|2794|Override|class|java.lang.Override
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|2814|2828|recievePassive|method|logisticspipes.modules.abstractmodules.LogisticsModule|recievePassive|()Z
+   Method End: recievePassive()Z
+   Method Start: hasEffect()Z
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|2866|2874|Override|class|java.lang.Override
+      @|com\bubbet\projectbsr\modules\ModuleApiaristSink.java|2894|2903|hasEffect|method|logisticspipes.modules.abstractmodules.LogisticsModule|hasEffect|()Z
+   Method End: hasEffect()Z
+Class End  : com.bubbet.projectbsr.modules.ModuleApiaristSink
+endProcessing "com\bubbet\projectbsr\modules\ModuleApiaristSink.java"
+
+startProcessing "com\bubbet\projectbsr\proxy\Client.java" md5: e8ad1b9ec2162525ebc17d248f233dff
+Cache Hit!
+@|com\bubbet\projectbsr\proxy\Client.java|8|35|com.bubbet.projectbsr.proxy|package|com.bubbet.projectbsr.proxy|(file)
+Class Start: com.bubbet.projectbsr.proxy.Client
+   @|com\bubbet\projectbsr\proxy\Client.java|208|214|Client|class|com.bubbet.projectbsr.proxy.Client
+   @|com\bubbet\projectbsr\proxy\Client.java|223|229|Common|class|com.bubbet.projectbsr.proxy.Common
+   Method Start: registerItemRenderer(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+      @|com\bubbet\projectbsr\proxy\Client.java|274|278|item|param|com.bubbet.projectbsr.proxy.Client|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|item|0
+      @|com\bubbet\projectbsr\proxy\Client.java|284|288|meta|param|com.bubbet.projectbsr.proxy.Client|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|meta|1
+      @|com\bubbet\projectbsr\proxy\Client.java|297|299|id|param|com.bubbet.projectbsr.proxy.Client|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|id|2
+      @|com\bubbet\projectbsr\proxy\Client.java|248|268|registerItemRenderer|method|com.bubbet.projectbsr.proxy.Common|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+      @|com\bubbet\projectbsr\proxy\Client.java|269|273|Item|class|net.minecraft.item.Item
+      @|com\bubbet\projectbsr\proxy\Client.java|290|296|String|class|java.lang.String
+      @|com\bubbet\projectbsr\proxy\Client.java|310|321|ModelLoader|class|net.minecraftforge.client.model.ModelLoader
+      @|com\bubbet\projectbsr\proxy\Client.java|322|352|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|com\bubbet\projectbsr\proxy\Client.java|353|357|item|param|com.bubbet.projectbsr.proxy.Client|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|item|0
+      @|com\bubbet\projectbsr\proxy\Client.java|359|363|meta|param|com.bubbet.projectbsr.proxy.Client|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|meta|1
+      @|com\bubbet\projectbsr\proxy\Client.java|369|390|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation
+      @|com\bubbet\projectbsr\proxy\Client.java|391|395|item|param|com.bubbet.projectbsr.proxy.Client|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|item|0
+      @|com\bubbet\projectbsr\proxy\Client.java|396|411|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+      @|com\bubbet\projectbsr\proxy\Client.java|414|416|id|param|com.bubbet.projectbsr.proxy.Client|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|id|2
+   Method End: registerItemRenderer(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+Class End  : com.bubbet.projectbsr.proxy.Client
+endProcessing "com\bubbet\projectbsr\proxy\Client.java"
+
+startProcessing "com\bubbet\projectbsr\proxy\Common.java" md5: 057d8724cfa80d6b69e97990f2dcb191
+Cache Hit!
+@|com\bubbet\projectbsr\proxy\Common.java|8|35|com.bubbet.projectbsr.proxy|package|com.bubbet.projectbsr.proxy|(file)
+Class Start: com.bubbet.projectbsr.proxy.Common
+   @|com\bubbet\projectbsr\proxy\Common.java|84|90|Common|class|com.bubbet.projectbsr.proxy.Common
+   Method Start: registerItemRenderer(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+      @|com\bubbet\projectbsr\proxy\Common.java|135|139|item|param|com.bubbet.projectbsr.proxy.Common|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|item|0
+      @|com\bubbet\projectbsr\proxy\Common.java|145|149|meta|param|com.bubbet.projectbsr.proxy.Common|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|meta|1
+      @|com\bubbet\projectbsr\proxy\Common.java|158|160|id|param|com.bubbet.projectbsr.proxy.Common|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|id|2
+      @|com\bubbet\projectbsr\proxy\Common.java|109|129|registerItemRenderer|method|com.bubbet.projectbsr.proxy.Common|registerItemRenderer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+      @|com\bubbet\projectbsr\proxy\Common.java|130|134|Item|class|net.minecraft.item.Item
+      @|com\bubbet\projectbsr\proxy\Common.java|151|157|String|class|java.lang.String
+   Method End: registerItemRenderer(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+Class End  : com.bubbet.projectbsr.proxy.Common
+endProcessing "com\bubbet\projectbsr\proxy\Common.java"
+
+startProcessing "com\bubbet\projectbsr\proxy\Server.java" md5: 506754de740a7d48ad0045bdc65a8fbc
+Cache Hit!
+@|com\bubbet\projectbsr\proxy\Server.java|8|35|com.bubbet.projectbsr.proxy|package|com.bubbet.projectbsr.proxy|(file)
+Class Start: com.bubbet.projectbsr.proxy.Server
+   @|com\bubbet\projectbsr\proxy\Server.java|51|57|Server|class|com.bubbet.projectbsr.proxy.Server
+   @|com\bubbet\projectbsr\proxy\Server.java|66|72|Common|class|com.bubbet.projectbsr.proxy.Common
+Class End  : com.bubbet.projectbsr.proxy.Server
+endProcessing "com\bubbet\projectbsr\proxy\Server.java"
+
+startProcessing "com\bubbet\projectbsr\util\handlers\RegistryHandler.java" md5: 855a412049f632fbdefd8851d8d3df8f
+Cache Hit!
+@|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|8|43|com.bubbet.projectbsr.util.handlers|package|com.bubbet.projectbsr.util.handlers|(file)
+Class Start: com.bubbet.projectbsr.util.handlers.RegistryHandler
+   @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|473|495|Mod.EventBusSubscriber|class|net.minecraftforge.fml.common.Mod.EventBusSubscriber
+   @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|509|524|RegistryHandler|class|com.bubbet.projectbsr.util.handlers.RegistryHandler
+   Method Start: onItemRegister(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|615|620|event|param|com.bubbet.projectbsr.util.handlers.RegistryHandler|onItemRegister|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|533|547|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|571|585|onItemRegister|method|com.bubbet.projectbsr.util.handlers.RegistryHandler|onItemRegister|(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|586|608|RegistryEvent.Register|class|net.minecraftforge.event.RegistryEvent.Register
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|609|613|Item|class|net.minecraft.item.Item
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|631|636|event|param|com.bubbet.projectbsr.util.handlers.RegistryHandler|onItemRegister|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|637|648|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|651|662|registerAll|method|net.minecraftforge.registries.IForgeRegistry|registerAll|([Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|663|671|ModItems|class|com.bubbet.projectbsr.init.ModItems
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|672|677|ITEMS|field|com.bubbet.projectbsr.init.ModItems|ITEMS
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|678|685|toArray|method|java.util.Collection|toArray|([Ljava/lang/Object;)[Ljava/lang/Object;
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|690|694|Item|class|net.minecraft.item.Item
+   Method End: onItemRegister(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+   Method Start: onBlockRegister(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|797|802|event|param|com.bubbet.projectbsr.util.handlers.RegistryHandler|onBlockRegister|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|713|727|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|751|766|onBlockRegister|method|com.bubbet.projectbsr.util.handlers.RegistryHandler|onBlockRegister|(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|767|789|RegistryEvent.Register|class|net.minecraftforge.event.RegistryEvent.Register
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|790|795|Block|class|net.minecraft.block.Block
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|813|818|event|param|com.bubbet.projectbsr.util.handlers.RegistryHandler|onBlockRegister|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|819|830|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|833|844|registerAll|method|net.minecraftforge.registries.IForgeRegistry|registerAll|([Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|845|854|ModBlocks|class|com.bubbet.projectbsr.init.ModBlocks
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|855|861|BLOCKS|field|com.bubbet.projectbsr.init.ModBlocks|BLOCKS
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|862|869|toArray|method|java.util.Collection|toArray|([Ljava/lang/Object;)[Ljava/lang/Object;
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|874|879|Block|class|net.minecraft.block.Block
+   Method End: onBlockRegister(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+   Method Start: onModelRegister(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|971|976|event|param|com.bubbet.projectbsr.util.handlers.RegistryHandler|onModelRegister|(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V|event|0
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|898|912|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|936|951|onModelRegister|method|com.bubbet.projectbsr.util.handlers.RegistryHandler|onModelRegister|(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|952|970|ModelRegistryEvent|class|net.minecraftforge.client.event.ModelRegistryEvent
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|992|996|Item|class|net.minecraft.item.Item
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|1004|1012|ModItems|class|com.bubbet.projectbsr.init.ModItems
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|1013|1018|ITEMS|field|com.bubbet.projectbsr.init.ModItems|ITEMS
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|1052|1061|LHasModel|class|com.bubbet.projectbsr.util.interfaces.LHasModel
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|1082|1091|LHasModel|class|com.bubbet.projectbsr.util.interfaces.LHasModel
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|1098|1112|registerModels|method|com.bubbet.projectbsr.util.interfaces.LHasModel|registerModels|()V
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|1153|1158|Block|class|net.minecraft.block.Block
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|1167|1176|ModBlocks|class|com.bubbet.projectbsr.init.ModBlocks
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|1177|1183|BLOCKS|field|com.bubbet.projectbsr.init.ModBlocks|BLOCKS
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|1218|1227|LHasModel|class|com.bubbet.projectbsr.util.interfaces.LHasModel
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|1248|1257|LHasModel|class|com.bubbet.projectbsr.util.interfaces.LHasModel
+      @|com\bubbet\projectbsr\util\handlers\RegistryHandler.java|1265|1279|registerModels|method|com.bubbet.projectbsr.util.interfaces.LHasModel|registerModels|()V
+   Method End: onModelRegister(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+Class End  : com.bubbet.projectbsr.util.handlers.RegistryHandler
+endProcessing "com\bubbet\projectbsr\util\handlers\RegistryHandler.java"
+
+startProcessing "com\bubbet\projectbsr\util\interfaces\LHasModel.java" md5: a4695ae79601d0d305faeb432025228a
+Cache Hit!
+@|com\bubbet\projectbsr\util\interfaces\LHasModel.java|8|45|com.bubbet.projectbsr.util.interfaces|package|com.bubbet.projectbsr.util.interfaces|(file)
+Class Start: com.bubbet.projectbsr.util.interfaces.LHasModel
+   @|com\bubbet\projectbsr\util\interfaces\LHasModel.java|65|74|LHasModel|class|com.bubbet.projectbsr.util.interfaces.LHasModel
+   Method Start: registerModels()V
+      @|com\bubbet\projectbsr\util\interfaces\LHasModel.java|94|108|registerModels|method|com.bubbet.projectbsr.util.interfaces.LHasModel|registerModels|()V
+   Method End: registerModels()V
+Class End  : com.bubbet.projectbsr.util.interfaces.LHasModel
+endProcessing "com\bubbet\projectbsr\util\interfaces\LHasModel.java"
+

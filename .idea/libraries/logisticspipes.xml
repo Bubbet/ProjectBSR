@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="logisticspipes">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/logisticspipes-0.10.1.99999-dev.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
