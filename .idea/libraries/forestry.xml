@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="logisticspipes">
+  <library name="forestry">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/libs/logisticspipes-0.10.2.202-deobf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/forestry_1.12.2-5.8.2.387.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

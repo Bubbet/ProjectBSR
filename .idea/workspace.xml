@@ -6,7 +6,84 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee208d4c-7895-4e65-8e55-d0dd94e0b011" name="Default Changelist" comment="" />
+    <list default="true" id="ee208d4c-7895-4e65-8e55-d0dd94e0b011" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/NotEnoughItems_1_12_2_2_4_2_244_deobf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/forestry.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/PBSRConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/PBSRItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/gui/hud/modules/HUDApiaristSink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/gui/modules/GuiApiaristSink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/init/AddonItemModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/network/guis/module/inhand/ApiaristSinkInHand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/network/guis/module/inpipe/ApiaristSinkSlot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/proxy/ProxyManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/proxy/SimpleServiceLocator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/proxy/interfaces/IForestryProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/util/handlers/GuiInjector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/projectbsr/models/item/module/apiarist_sink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/cache.properties.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/cache.properties.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileSnapshots.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/taskArtifacts.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/taskArtifacts.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/treeSnapshotUsage.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/treeSnapshotUsage.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/treeSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/treeSnapshots.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/gradle.log" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/gradle.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/logisticspipes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/logisticspipes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/extractAnnotationsJar/input3795992006316795611.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/reobfJar/reobf-default3761387770882461485.srg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/reobfJar/reobf-extraLines6841213038678888101.srg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/ProjectBSR.main/assets/projectbsr/lang/en_us.lang" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/ProjectBSR.main/assets/projectbsr/lang/en_us.lang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/ProjectBSR.main/assets/projectbsr/models/item/moduleapiaristsink.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/ProjectBSR.main/assets/projectbsr/textures/items/itemModule/ModuleApiaristAnalyser.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/ProjectBSR.main/assets/projectbsr/textures/items/itemModule/ModuleApiaristRefiller.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/ProjectBSR.main/assets/projectbsr/textures/items/itemModule/ModuleApiaristSink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/ProjectBSR.main/assets/projectbsr/textures/items/itemModule/ModuleApiaristTerminus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/ProjectBSR.main/com/bubbet/projectbsr/ProjectBSR.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/ProjectBSR.main/com/bubbet/projectbsr/ProjectBSR.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/ProjectBSR.main/com/bubbet/projectbsr/init/ModItems.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/ProjectBSR.main/com/bubbet/projectbsr/items/ItemBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/ProjectBSR.main/com/bubbet/projectbsr/items/ItemBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/ProjectBSR.main/com/bubbet/projectbsr/modules/ModuleApiaristSink.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/ProjectBSR.main/com/bubbet/projectbsr/modules/ModuleApiaristSink.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/ProjectBSR.main/com/bubbet/projectbsr/util/handlers/RegistryHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/ProjectBSR.main/com/bubbet/projectbsr/util/handlers/RegistryHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/logisticspipes-0.10.1.99999-dev.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/config/jei/worldSettings.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/jei/worldSettings.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/config/splash.properties" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/splash.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2019-07-25-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2019-07-25-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2019-07-25-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2019-07-25-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2019-07-25-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2019-07-25-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2019-07-25-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2019-07-25-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2019-07-25-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2019-07-25-5.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2019-07-25-6.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2019-07-25-6.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2019-07-25-7.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2019-07-25-7.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-5.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/options.txt" beforeDir="false" afterPath="$PROJECT_DIR$/run/options.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/data/villages.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/level.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/level.dat_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.-1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/session.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/usernamecache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usernamecache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/ProjectBSR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/ProjectBSR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/init/ModItems.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/items/ItemBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/items/ItemBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/modules/ModuleApiaristSink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/modules/ModuleApiaristSink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/util/handlers/RegistryHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/util/handlers/RegistryHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/projectbsr/lang/en_us.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/projectbsr/lang/en_us.lang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/projectbsr/models/item/moduleapiaristsink.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/projectbsr/textures/items/itemModule/ModuleApiaristAnalyser.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/projectbsr/textures/items/module/ModuleApiaristAnalyser.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/projectbsr/textures/items/itemModule/ModuleApiaristRefiller.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/projectbsr/textures/items/module/ModuleApiaristRefiller.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/projectbsr/textures/items/itemModule/ModuleApiaristSink.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/projectbsr/textures/items/module/apiarist_sink.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/projectbsr/textures/items/itemModule/ModuleApiaristTerminus.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/projectbsr/textures/items/module/ModuleApiaristTerminus.png" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -17,8 +94,15 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -63,48 +147,42 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.615631">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/ProjectBSR.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="170">
-                  <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/init/ModItems.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="408">
-                  <caret line="24" selection-start-line="24" selection-end-line="24" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#288#294#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/util/interfaces/LHasModel.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="119">
-                  <caret line="7" selection-start-line="7" selection-end-line="7" />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/modules/ModuleApiaristSink.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="187">
-                  <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+                <state relative-caret-position="3383">
+                  <caret line="229" selection-start-line="229" selection-end-line="229" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#8637#8638#0" expanded="true" />
+                    <element signature="e#8704#8705#0" expanded="true" />
+                    <element signature="e#8782#8783#0" expanded="true" />
+                    <element signature="e#8851#8852#0" expanded="true" />
+                    <element signature="e#10886#10887#0" expanded="true" />
+                    <element signature="e#10913#10914#0" expanded="true" />
+                    <element signature="e#11012#11013#0" expanded="true" />
+                    <element signature="e#11039#11040#0" expanded="true" />
+                    <element signature="e#11111#11112#0" expanded="true" />
+                    <element signature="e#11138#11139#0" expanded="true" />
+                    <element signature="e#11206#11207#0" expanded="true" />
+                    <element signature="e#11234#11235#0" expanded="true" />
+                    <element signature="e#11296#11297#0" expanded="true" />
+                    <element signature="e#11324#11325#0" expanded="true" />
+                    <element signature="e#11377#11378#0" expanded="true" />
+                    <element signature="e#11404#11405#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/ProjectBSR.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="510">
+                  <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -113,10 +191,95 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/init/ModBlocks.java">
+            <entry file="jar://$PROJECT_DIR$/libs/logisticspipes-0.10.2.202-deobf.jar!/logisticspipes/network/NewGuiHandler.class">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="425">
+                  <caret line="55" column="40" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="40" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="jar://$PROJECT_DIR$/libs/logisticspipes-0.10.2.202-deobf.jar!/logisticspipes/utils/StaticResolverUtil.class">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="102">
+                  <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/network/guis/module/inpipe/ApiaristSinkSlot.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="85">
+                  <caret line="18" column="91" selection-start-line="18" selection-start-column="91" selection-end-line="18" selection-end-column="91" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/util/handlers/GuiInjector.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="119">
-                  <caret line="10" selection-start-line="10" selection-end-line="10" />
+                  <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="jar://$PROJECT_DIR$/libs/logisticspipes-0.10.2.202-deobf.jar!/logisticspipes/modules/abstractmodules/LogisticsGuiModule.class">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="204">
+                  <caret line="16" column="46" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="46" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="jar://$PROJECT_DIR$/libs/logisticspipes-0.10.2.202-deobf.jar!/logisticspipes/network/abstractguis/ModuleInHandGuiProvider.class">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="153">
+                  <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/network/guis/module/inhand/ApiaristSinkInHand.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="221">
+                  <caret line="13" selection-start-line="13" selection-end-line="13" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/resources/assets/projectbsr/models/item/module/apiarist_sink.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="85">
+                  <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/items/ItemBase.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="221">
+                  <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -127,8 +290,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/util/handlers/RegistryHandler.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="119">
-                  <caret line="19" selection-start-line="19" selection-end-line="19" />
+                <state relative-caret-position="136">
+                  <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -137,26 +300,77 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/items/ItemBase.java">
+            <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.5.2838/snapshot/20171003/forgeSrc-1.12.2-14.23.5.2838-sources.jar!/net/minecraft/util/registry/RegistryNamespaced.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="187">
-                  <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+                <state relative-caret-position="425">
+                  <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="34" />
                   <folding>
-                    <element signature="imports" expanded="true" />
+                    <element signature="e#1927#1928#0" expanded="true" />
+                    <element signature="e#1983#1984#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/resources/assets/projectbsr/lang/en_us.lang">
+          <file pinned="false" current-in-tab="false">
+            <entry file="jar://$PROJECT_DIR$/libs/forestry_1.12.2-5.8.2.387.jar!/forestry/api/apiculture/IBeeRoot.class">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="272">
-                  <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+                <state relative-caret-position="153">
+                  <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="jar://$PROJECT_DIR$/libs/forestry_1.12.2-5.8.2.387.jar!/forestry/api/apiculture/IBee.class">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="119">
+                  <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="jar://$PROJECT_DIR$/libs/forestry_1.12.2-5.8.2.387.jar!/forestry/api/apiculture/IBeeGenome.class">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="102">
+                  <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="jar://$PROJECT_DIR$/libs/forestry_1.12.2-5.8.2.387.jar!/forestry/api/apiculture/IAlleleBeeSpecies.class">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="102">
+                  <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="jar://$PROJECT_DIR$/libs/forestry_1.12.2-5.8.2.387.jar!/forestry/core/utils/StringUtil.class">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="148">
+                  <caret line="19" selection-start-line="19" selection-end-line="19" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="jar://$PROJECT_DIR$/libs/forestry_1.12.2-5.8.2.387.jar!/forestry/api/apiculture/EnumBeeType.class">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="102">
+                  <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="jar://$PROJECT_DIR$/libs/forestry_1.12.2-5.8.2.387.jar!/forestry/api/apiculture/EnumBeeChromosome.class">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="102">
+                  <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
                 </state>
               </provider>
             </entry>
@@ -168,6 +382,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -175,7 +390,22 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>java.io.FileNotFoundException</find>
+      <find>getX</find>
+      <find>GuiItemSink</find>
+      <find>itemsink</find>
+      <find>IBee</find>
+      <find>SimpleServiceLocator</find>
+      <find>width</find>
+      <find>getForestryTranslation</find>
+      <find>localize</find>
+      <find>guimap</find>
+      <find>StaticResolverUtil</find>
+      <find>lower</find>
+      <find>getgui</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -199,31 +429,46 @@
         <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/util/fakeinterfaces/ItemBase.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/items/ItemBase/ItemBase.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/init/ModBlocks.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/projectbsr/models/item/moduleapiaristsink.json" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/items/ItemModule.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/util/interfaces/LHasModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/PBSRConstants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/init/ModItems.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/items/ItemBase.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/util/handlers/RegistryHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/assets/projectbsr/models/item/moduleapiaristsink.json" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/PBSRItems.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/init/ItemModule.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/proxy/forestry/ForestryProgressProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/proxy/interfaces/IForestryProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/proxy/SimpleServiceLocator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/gui/modules/GuiApiaristSink.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/init/AddonItemModule.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/proxy/ProxyManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/gui/hud/modules/HUDApiaristSink.java" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/projectbsr/lang/en_us.lang" />
-        <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/items/ItemModule.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/modules/ModuleApiaristSink.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/init/ModItems.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/util/interfaces/LHasModel.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/projectbsr/models/item/module_apiarist_sink.json" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/proxy/forestry/ForestryProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/projectbsr/models/item/module/apiarist_sink.json" />
         <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/ProjectBSR.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/modules/ModuleApiaristSink.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/network/guis/module/inpipe/ApiaristSinkSlot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/util/handlers/GuiInjector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/network/guis/module/inhand/ApiaristSinkInHand.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1066" />
+    <option name="x" value="61" />
+    <option name="y" value="-24" />
+    <option name="width" value="1291" />
+    <option name="height" value="1009" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -269,6 +514,25 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="projectbsr" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectBSR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectBSR" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="projectbsr" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectBSR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectBSR" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="projectbsr" type="462c0819:PsiDirectoryNode" />
               <item name="init" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -288,6 +552,35 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="projectbsr" type="462c0819:PsiDirectoryNode" />
               <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectBSR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectBSR" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="projectbsr" type="462c0819:PsiDirectoryNode" />
+              <item name="module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectBSR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectBSR" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="projectbsr" type="462c0819:PsiDirectoryNode" />
+              <item name="module" type="462c0819:PsiDirectoryNode" />
+              <item name="inhand" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectBSR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectBSR" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="projectbsr" type="462c0819:PsiDirectoryNode" />
+              <item name="module" type="462c0819:PsiDirectoryNode" />
+              <item name="inpipe" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ProjectBSR" type="b2602c69:ProjectViewProjectNode" />
@@ -349,25 +642,41 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="projectbsr" type="462c0819:PsiDirectoryNode" />
-              <item name="item" type="462c0819:PsiDirectoryNode" />
+              <item name="module" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/logisticspipes-0.10.1.99999-dev.jar!/" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/NotEnoughItems-1.12.2-2.4.2.244-deobf.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.16210938" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.bubbet.projectbsr.network.guis.module" />
+      <recent name="com.bubbet.projectbsr.gui" />
       <recent name="com.bubbet.projectbsr.items" />
       <recent name="com.bubbet.projectbsr.items.ItemBase" />
       <recent name="com.bubbet.projectbsr.utils" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bubbet.projectbsr.gui.hud.modules" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Desktop\Logistics Pipes Dev\ProjectBSR\src\main\resources\assets\projectbsr\models\item\module" />
+      <recent name="D:\Desktop\Logistics Pipes Dev\ProjectBSR\libs" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -498,10 +807,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="1" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1663113" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17590618" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -510,7 +818,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" weight="0.3290461" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6966951" visible="true" weight="0.3290461" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6966951" visible="true" weight="0.3290461" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7164179" weight="0.39978564" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -521,6 +829,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.3033049" side_tool="true" weight="0.3290461" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.3290461" />
+      <window_info anchor="bottom" id="LuaCheck" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -528,114 +837,45 @@
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="sbt" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Gradle" order="7" visible="true" weight="0.086886995" />
+      <window_info anchor="right" id="Gradle" order="7" weight="0.086886995" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="LuaJ" order="10" />
     </layout>
     <layout-to-restore>
-      <window_info id="Designer" order="0" />
-      <window_info id="Image Layers" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.16471216" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Build" order="0" visible="true" weight="0.30975348" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
-      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.2835821" side_tool="true" weight="0.39978564" />
-      <window_info anchor="bottom" id="Version Control" order="4" />
-      <window_info anchor="bottom" id="Messages" order="5" sideWeight="0.49946696" weight="0.3290461" />
-      <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Find" order="7" sideWeight="0.49946696" weight="0.3290461" />
-      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.6540512" weight="0.3290461" />
-      <window_info anchor="bottom" id="Debug" order="9" sideWeight="0.7164179" weight="0.39978564" />
-      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="right" id="Maven" order="0" />
-      <window_info anchor="right" id="Palette" order="1" />
-      <window_info anchor="right" id="sbt" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Gradle" order="4" weight="0.32995737" />
-      <window_info anchor="right" id="Palette&#9;" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1663113" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" weight="0.3290461" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6966951" weight="0.3290461" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7164179" weight="0.39978564" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3290461" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.30975348" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.3290461" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3290461" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.3033049" side_tool="true" weight="0.3290461" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" visible="true" weight="0.3290461" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="sbt" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Gradle" order="7" weight="0.086886995" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/proxy/Server.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/proxy/Common.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mcmod.info">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/security/provider/SHA2.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-379">
-          <caret line="57" column="41" selection-start-line="57" selection-start-column="41" selection-end-line="57" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minecraft/launchwrapper/1.12/fd80cad9a1b967ce2ff20529dc54e520d5338d7/launchwrapper-1.12-sources.jar!/net/minecraft/launchwrapper/Launch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="120" column="49" selection-start-line="120" selection-start-column="49" selection-end-line="120" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/security/AccessController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="370" column="31" selection-start-line="370" selection-start-column="31" selection-end-line="370" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.5.2838/snapshot/20171003/forgeSrc-1.12.2-14.23.5.2838-sources.jar!/net/minecraftforge/client/model/ModelLoaderRegistry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="160" selection-start-line="160" selection-end-line="160" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.5.2838/snapshot/20171003/forgeSrc-1.12.2-14.23.5.2838-sources.jar!/net/minecraft/client/Minecraft.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4097">
-          <caret line="559" column="31" selection-start-line="559" selection-start-column="31" selection-end-line="559" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.5.2838/snapshot/20171003/forgeSrc-1.12.2-14.23.5.2838-sources.jar!/net/minecraft/client/main/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="117" column="43" selection-start-line="117" selection-start-column="43" selection-end-line="117" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Formatter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="2986" selection-start-line="2986" selection-end-line="2986" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/assets.projectbsr.models.item/itemModule/ModuleApiaristSink.json" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/assets.projectbsr.textures/items/itemModule/ModuleApiaristSink.png" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/misc/Launcher.class">
@@ -673,13 +913,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.5.2838/snapshot/20171003/forgeSrc-1.12.2-14.23.5.2838-sources.jar!/net/minecraftforge/event/RegistryEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="62" column="24" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/proxy/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -691,44 +924,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/assets/projectbsr/textures/items/moduleapiaristsink.png" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/projectbsr/models/item/moduleapiaristsink.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/items/ItemModule.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/init/ModBlocks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/util/handlers/RegistryHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/items/ItemBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.5.2838/snapshot/20171003/forgeSrc-1.12.2-14.23.5.2838-sources.jar!/net/minecraft/init/Bootstrap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -743,57 +939,358 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/modules/ModuleApiaristSink.java">
+    <entry file="file://$PROJECT_DIR$/../BubbetLogisticsPipes/common/logisticspipes/modules/ModuleApiaristSink.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/init/ModBlocks.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/init/ModItems.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.5.2838/snapshot/20171003/forgeSrc-1.12.2-14.23.5.2838-sources.jar!/net/minecraftforge/event/RegistryEvent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#288#294#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="127">
+          <caret line="62" column="24" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/PBSRConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/util/interfaces/LHasModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/ProjectBSR.java">
+    <entry file="jar://$PROJECT_DIR$/libs/forestry_1.12.2-5.8.2.387-sources.jar!/forestry/core/tiles/TilePowered.java" />
+    <entry file="jar://$PROJECT_DIR$/libs/gendustry-1.6.5.8-mc1.12.2.jar!/net/bdew/gendustry/forestry/ForestryItems.class" />
+    <entry file="jar://$PROJECT_DIR$/libs/gendustry-1.6.5.8-mc1.12.2.jar!/net/bdew/gendustry/forestry/BeeModifiers.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/proxy/interfaces/IForestryProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        <state relative-caret-position="1071">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../BubbetLogisticsPipes/common/logisticspipes/modules/ModuleApiaristSink.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/proxy/forestry/ForestryProgressProvider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-715">
+        <state relative-caret-position="187">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/init/AddonItemModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/PBSRItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/proxy/SimpleServiceLocator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/gui/hud/modules/HUDApiaristSink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="97" selection-start-line="27" selection-start-column="97" selection-end-line="27" selection-end-column="97" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/assets/projectbsr/lang/en_us.lang">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/proxy/forestry/ForestryProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="437" column="26" selection-start-line="437" selection-start-column="26" selection-end-line="437" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/proxy/ProxyManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1247#1248#0" expanded="true" />
+            <element signature="e#1291#1292#0" expanded="true" />
+            <element signature="e#1370#1371#0" expanded="true" />
+            <element signature="e#1414#1415#0" expanded="true" />
+            <element signature="e#1496#1497#0" expanded="true" />
+            <element signature="e#1540#1541#0" expanded="true" />
+            <element signature="e#1627#1628#0" expanded="true" />
+            <element signature="e#1671#1672#0" expanded="true" />
+            <element signature="e#1764#1765#0" expanded="true" />
+            <element signature="e#1808#1809#0" expanded="true" />
+            <element signature="e#1885#1886#0" expanded="true" />
+            <element signature="e#1928#1929#0" expanded="true" />
+            <element signature="e#2012#2013#0" expanded="true" />
+            <element signature="e#2056#2057#0" expanded="true" />
+            <element signature="e#2139#2140#0" expanded="true" />
+            <element signature="e#2182#2183#0" expanded="true" />
+            <element signature="e#2266#2267#0" expanded="true" />
+            <element signature="e#2309#2310#0" expanded="true" />
+            <element signature="e#2401#2402#0" expanded="true" />
+            <element signature="e#2444#2445#0" expanded="true" />
+            <element signature="e#2536#2537#0" expanded="true" />
+            <element signature="e#2579#2580#0" expanded="true" />
+            <element signature="e#2654#2655#0" expanded="true" />
+            <element signature="e#2698#2699#0" expanded="true" />
+            <element signature="e#2773#2774#0" expanded="true" />
+            <element signature="e#2817#2818#0" expanded="true" />
+            <element signature="e#2895#2896#0" expanded="true" />
+            <element signature="e#2939#2940#0" expanded="true" />
+            <element signature="e#3014#3015#0" expanded="true" />
+            <element signature="e#3058#3059#0" expanded="true" />
+            <element signature="e#3136#3137#0" expanded="true" />
+            <element signature="e#3180#3181#0" expanded="true" />
+            <element signature="e#3259#3260#0" expanded="true" />
+            <element signature="e#3303#3304#0" expanded="true" />
+            <element signature="e#3386#3387#0" expanded="true" />
+            <element signature="e#3430#3431#0" expanded="true" />
+            <element signature="e#3509#3510#0" expanded="true" />
+            <element signature="e#3553#3554#0" expanded="true" />
+            <element signature="e#3627#3628#0" expanded="true" />
+            <element signature="e#3671#3672#0" expanded="true" />
+            <element signature="e#3749#3750#0" expanded="true" />
+            <element signature="e#3793#3794#0" expanded="true" />
+            <element signature="e#3881#3882#0" expanded="true" />
+            <element signature="e#3924#3925#0" expanded="true" />
+            <element signature="e#4015#4016#0" expanded="true" />
+            <element signature="e#4055#4056#0" expanded="true" />
+            <element signature="e#4142#4143#0" expanded="true" />
+            <element signature="e#4182#4183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/projectbsr/textures/items/module/apiarist_sink.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/gui/modules/GuiApiaristSink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/modules/ModuleApiaristSink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3383">
+          <caret line="229" selection-start-line="229" selection-end-line="229" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#8637#8638#0" expanded="true" />
+            <element signature="e#8704#8705#0" expanded="true" />
+            <element signature="e#8782#8783#0" expanded="true" />
+            <element signature="e#8851#8852#0" expanded="true" />
+            <element signature="e#10886#10887#0" expanded="true" />
+            <element signature="e#10913#10914#0" expanded="true" />
+            <element signature="e#11012#11013#0" expanded="true" />
+            <element signature="e#11039#11040#0" expanded="true" />
+            <element signature="e#11111#11112#0" expanded="true" />
+            <element signature="e#11138#11139#0" expanded="true" />
+            <element signature="e#11206#11207#0" expanded="true" />
+            <element signature="e#11234#11235#0" expanded="true" />
+            <element signature="e#11296#11297#0" expanded="true" />
+            <element signature="e#11324#11325#0" expanded="true" />
+            <element signature="e#11377#11378#0" expanded="true" />
+            <element signature="e#11404#11405#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/ProjectBSR.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/logisticspipes-0.10.2.202-deobf.jar!/logisticspipes/network/NewGuiHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="55" column="40" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/logisticspipes-0.10.2.202-deobf.jar!/logisticspipes/utils/StaticResolverUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/network/guis/module/inpipe/ApiaristSinkSlot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="18" column="91" selection-start-line="18" selection-start-column="91" selection-end-line="18" selection-end-column="91" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/util/handlers/GuiInjector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/logisticspipes-0.10.2.202-deobf.jar!/logisticspipes/modules/abstractmodules/LogisticsGuiModule.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="46" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/logisticspipes-0.10.2.202-deobf.jar!/logisticspipes/network/abstractguis/ModuleInHandGuiProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/projectbsr/models/item/module/apiarist_sink.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/network/guis/module/inhand/ApiaristSinkInHand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/items/ItemBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/util/handlers/RegistryHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.5.2838/snapshot/20171003/forgeSrc-1.12.2-14.23.5.2838-sources.jar!/net/minecraft/util/registry/RegistryNamespaced.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="34" />
+          <folding>
+            <element signature="e#1927#1928#0" expanded="true" />
+            <element signature="e#1983#1984#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/forestry_1.12.2-5.8.2.387.jar!/forestry/api/apiculture/IBeeRoot.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/forestry_1.12.2-5.8.2.387.jar!/forestry/api/apiculture/IBee.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/forestry_1.12.2-5.8.2.387.jar!/forestry/api/apiculture/IBeeGenome.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/forestry_1.12.2-5.8.2.387.jar!/forestry/api/apiculture/IAlleleBeeSpecies.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/forestry_1.12.2-5.8.2.387.jar!/forestry/api/apiculture/EnumBeeType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/forestry_1.12.2-5.8.2.387.jar!/forestry/api/apiculture/EnumBeeChromosome.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/forestry_1.12.2-5.8.2.387.jar!/forestry/core/utils/StringUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
@@ -827,6 +1324,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Gradle: org.projectlombok:lombok:1.16.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -874,7 +1372,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>logisticspipes</last-edited>
+          <last-edited>NotEnoughItems-1.12.2-2.4.2.244-deobf</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

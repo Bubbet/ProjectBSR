@@ -11,6 +11,6 @@ item.PipeItemsApiaristSink.tip3= - Can filter based on genetic properties and ge
 #Modules
 
 item.ModuleApiaristAnalyser=Bee Analyzer module
-item.ModuleApiaristSink=BeeSink module
+item.projectbsr.module_apiarist_sink.name=BeeSink module
 item.ModuleApiaristRefiller=Apiary Refiller module
 item.ModuleApiaristTerminus=Drone Terminus module
