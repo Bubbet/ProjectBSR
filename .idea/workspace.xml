@@ -7,82 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee208d4c-7895-4e65-8e55-d0dd94e0b011" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/NotEnoughItems_1_12_2_2_4_2_244_deobf.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/forestry.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/PBSRConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/PBSRItems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/gui/hud/modules/HUDApiaristSink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/gui/modules/GuiApiaristSink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/init/AddonItemModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/network/guis/module/inhand/ApiaristSinkInHand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/network/guis/module/inpipe/ApiaristSinkSlot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/proxy/ProxyManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/proxy/SimpleServiceLocator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/proxy/interfaces/IForestryProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/util/handlers/GuiInjector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/projectbsr/models/item/module/apiarist_sink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/cache.properties.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/cache.properties.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileSnapshots.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/taskArtifacts.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/taskArtifacts.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/treeSnapshotUsage.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/treeSnapshotUsage.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/treeSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/treeSnapshots.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/gradle.log" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/gradle.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/logisticspipes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/logisticspipes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/extractAnnotationsJar/input3795992006316795611.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/reobfJar/reobf-default3761387770882461485.srg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/reobfJar/reobf-extraLines6841213038678888101.srg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/ProjectBSR.main/assets/projectbsr/lang/en_us.lang" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/ProjectBSR.main/assets/projectbsr/lang/en_us.lang" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/ProjectBSR.main/assets/projectbsr/models/item/moduleapiaristsink.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/ProjectBSR.main/assets/projectbsr/textures/items/itemModule/ModuleApiaristAnalyser.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/ProjectBSR.main/assets/projectbsr/textures/items/itemModule/ModuleApiaristRefiller.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/ProjectBSR.main/assets/projectbsr/textures/items/itemModule/ModuleApiaristSink.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/ProjectBSR.main/assets/projectbsr/textures/items/itemModule/ModuleApiaristTerminus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/ProjectBSR.main/com/bubbet/projectbsr/ProjectBSR.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/ProjectBSR.main/com/bubbet/projectbsr/ProjectBSR.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/ProjectBSR.main/com/bubbet/projectbsr/init/ModItems.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/ProjectBSR.main/com/bubbet/projectbsr/items/ItemBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/ProjectBSR.main/com/bubbet/projectbsr/items/ItemBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/ProjectBSR.main/com/bubbet/projectbsr/modules/ModuleApiaristSink.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/ProjectBSR.main/com/bubbet/projectbsr/modules/ModuleApiaristSink.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/ProjectBSR.main/com/bubbet/projectbsr/util/handlers/RegistryHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/ProjectBSR.main/com/bubbet/projectbsr/util/handlers/RegistryHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/logisticspipes-0.10.1.99999-dev.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/config/jei/worldSettings.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/jei/worldSettings.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/config/splash.properties" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/splash.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2019-07-25-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2019-07-25-1.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2019-07-25-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2019-07-25-2.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2019-07-25-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2019-07-25-3.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2019-07-25-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2019-07-25-4.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2019-07-25-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2019-07-25-5.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2019-07-25-6.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2019-07-25-6.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2019-07-25-7.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2019-07-25-7.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-2.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-3.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-4.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-5.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/latest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/options.txt" beforeDir="false" afterPath="$PROJECT_DIR$/run/options.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/New World/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/data/villages.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/New World/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/level.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/New World/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/level.dat_old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/New World/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.-1.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/New World/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.0.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/New World/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/session.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/usernamecache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usernamecache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/ProjectBSR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/ProjectBSR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/init/ModItems.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/items/ItemBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/items/ItemBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/modules/ModuleApiaristSink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/modules/ModuleApiaristSink.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/util/handlers/RegistryHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/util/handlers/RegistryHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/projectbsr/lang/en_us.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/projectbsr/lang/en_us.lang" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/projectbsr/models/item/moduleapiaristsink.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/projectbsr/textures/items/itemModule/ModuleApiaristAnalyser.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/projectbsr/textures/items/module/ModuleApiaristAnalyser.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/projectbsr/textures/items/itemModule/ModuleApiaristRefiller.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/projectbsr/textures/items/module/ModuleApiaristRefiller.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/projectbsr/textures/items/itemModule/ModuleApiaristSink.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/projectbsr/textures/items/module/apiarist_sink.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/projectbsr/textures/items/itemModule/ModuleApiaristTerminus.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/projectbsr/textures/items/module/ModuleApiaristTerminus.png" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -276,18 +202,6 @@
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/items/ItemBase.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="221">
-                  <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/util/handlers/RegistryHandler.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="136">
@@ -348,11 +262,20 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="jar://$PROJECT_DIR$/libs/forestry_1.12.2-5.8.2.387.jar!/forestry/core/utils/StringUtil.class">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="148">
                   <caret line="19" selection-start-line="19" selection-end-line="19" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/.gitignore">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="792">
+                  <caret line="213" column="4" selection-start-line="213" selection-start-column="4" selection-end-line="213" selection-end-column="4" />
                 </state>
               </provider>
             </entry>
@@ -454,6 +377,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/network/guis/module/inpipe/ApiaristSinkSlot.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/util/handlers/GuiInjector.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bubbet/projectbsr/network/guis/module/inhand/ApiaristSinkInHand.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -807,9 +731,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17590618" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11727079" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -876,7 +801,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets.projectbsr.models.item/itemModule/ModuleApiaristSink.json" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/assets.projectbsr.textures/items/itemModule/ModuleApiaristSink.png" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/misc/Launcher.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -1294,6 +1218,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="213" column="4" selection-start-line="213" selection-start-column="4" selection-end-line="213" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -1372,7 +1303,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>NotEnoughItems-1.12.2-2.4.2.244-deobf</last-edited>
+          <last-edited>forestry</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
