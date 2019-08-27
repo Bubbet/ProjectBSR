@@ -7,13 +7,14 @@ buildscript {
         classpath 'net.minecraftforge.gradle:ForgeGradle:2.3-SNAPSHOT'
     }
 }
+
 apply plugin: 'net.minecraftforge.gradle.forge'
 //Only edit below this line, the above code adds and enables the necessary things for Forge to be setup.
 
 
 version = "1.0"
-group = "com.yourname.modid" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "modid"
+group = "com.bubbet.projectbsr" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = "projectbsr"
 
 sourceCompatibility = targetCompatibility = '1.8' // Need this here so eclipse task generates correctly.
 compileJava {
@@ -29,32 +30,40 @@ minecraft {
     // stable_#            stables are built at the discretion of the MCP team.
     // Use non-default mappings at your own risk. they may not always work.
     // simply re-run your setup task after changing the mappings to update your workspace.
-    mappings = "snapshot_20171003"
+    mappings = "snapshot_20180814"
     // makeObfSourceJar = false // an Srg named sources jar is made by default. uncomment this to disable.
 }
 
+repositories {
+    maven {
+        name = 'CB Repo'
+        url = 'http://chickenbones.net/maven/'
+    }
+    maven {
+        name = 'JEI Maven.'
+        url = 'http://dvs1.progwml6.com/files/maven'
+    }
+    maven {
+        name = 'Forgelin'
+        url = 'http://maven.shadowfacts.net/'
+    }
+    maven {
+        name = 'Forestry'
+        url = 'http://maven.ic2.player.to/'
+    }
+    maven {
+        name = 'Logistics Pipes'
+        url = 'https://jitpack.io'
+    }
+}
+
 dependencies {
-    // you may put jars on which you depend on in ./libs
-    // or you may define them like so..
-    //compile "some.group:artifact:version:classifier"
-    //compile "some.group:artifact:version"
-      
-    // real examples
-    //compile 'com.mod-buildcraft:buildcraft:6.0.8:dev'  // adds buildcraft to the dev env
-    //compile 'com.googlecode.efficient-java-matrix-library:ejml:0.24' // adds ejml to the dev env
-
-    // the 'provided' configuration is for optional dependencies that exist at compile-time but might not at runtime.
-    //provided 'com.mod-buildcraft:buildcraft:6.0.8:dev'
-
-    // the deobf configurations:  'deobfCompile' and 'deobfProvided' are the same as the normal compile and provided,
-    // except that these dependencies get remapped to your current MCP mappings
-    //deobfCompile 'com.mod-buildcraft:buildcraft:6.0.8:dev'
-    //deobfProvided 'com.mod-buildcraft:buildcraft:6.0.8:dev'
-
-    // for more info...
-    // http://www.gradle.org/docs/current/userguide/artifact_dependencies_tutorial.html
-    // http://www.gradle.org/docs/current/userguide/dependency_management.html
-
+    compile 'net.shadowfacts:Forgelin:1.8.3'
+    deobfCompile 'net.sengir.forestry:forestry_1.12.2:5.8.2.394'
+    deobfCompile 'codechicken:NotEnoughItems:1.12.2-2.4.2.240:universal'
+    deobfCompile 'codechicken:CodeChickenLib:1.12.2-3.1.7.340:universal'
+    deobfCompile 'com.github.RS485:LogisticsPipes:dev-mc1122-SNAPSHOT'
+    compileOnly 'org.projectlombok:lombok:1.16.8'
 }
 
 processResources {
