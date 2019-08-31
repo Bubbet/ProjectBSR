@@ -1,4 +1,4 @@
-package com.bubbet.projectbsr.init;
+package com.bubbet.projectbsr.items;
 
 import com.bubbet.projectbsr.PBSRConstants;
 import com.bubbet.projectbsr.modules.ModuleApiaristSink;
@@ -8,8 +8,7 @@ import net.minecraftforge.registries.IForgeRegistry;
 
 import static logisticspipes.items.ItemModule.registerModule;
 
-public class AddonItemModule extends LogisticsItem {
-    //public static final List<Item> ITEMS = new ArrayList<>();
+public class ItemModule extends LogisticsItem {
 
     public static void loadModules(IForgeRegistry<Item> registry) {
         registerModule(registry, "apiarist_sink", ModuleApiaristSink::new, PBSRConstants.MOD_ID);

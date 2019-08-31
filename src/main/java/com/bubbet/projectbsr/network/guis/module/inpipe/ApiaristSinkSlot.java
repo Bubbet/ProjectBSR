@@ -1,6 +1,5 @@
 package com.bubbet.projectbsr.network.guis.module.inpipe;
 
-//import com.bubbet.projectbsr.util.handlers.GuiInjector;
 import logisticspipes.gui.modules.GuiItemSink;
 import logisticspipes.modules.ModuleItemSink;
 import logisticspipes.network.abstractguis.GuiProvider;
