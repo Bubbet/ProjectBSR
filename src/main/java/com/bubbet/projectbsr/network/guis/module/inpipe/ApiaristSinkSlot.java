@@ -1,6 +1,6 @@
 package com.bubbet.projectbsr.network.guis.module.inpipe;
 
-import com.bubbet.projectbsr.util.handlers.GuiInjector;
+//import com.bubbet.projectbsr.util.handlers.GuiInjector;
 import logisticspipes.gui.modules.GuiItemSink;
 import logisticspipes.modules.ModuleItemSink;
 import logisticspipes.network.abstractguis.GuiProvider;
@@ -16,7 +16,7 @@ import network.rs485.logisticspipes.util.LPDataOutput;
 import java.util.BitSet;
 
 @StaticResolve
-public class ApiaristSinkSlot extends ModuleCoordinatesGuiProvider implements GuiInjector {
+public class ApiaristSinkSlot extends ModuleCoordinatesGuiProvider {
 
     @Getter
     @Setter
