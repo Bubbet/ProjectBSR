@@ -1,6 +1,7 @@
 package com.bubbet.projectbsr.items;
 
 import com.bubbet.projectbsr.PBSRConstants;
+import com.bubbet.projectbsr.ProjectBSR;
 import com.bubbet.projectbsr.modules.ModuleApiaristSink;
 import logisticspipes.items.LogisticsItem;
 import net.minecraft.item.Item;

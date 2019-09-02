@@ -5,6 +5,7 @@ import com.bubbet.projectbsr.proxy.Common;
 import com.bubbet.projectbsr.proxy.ProxyManager;
 import logisticspipes.network.NewGuiHandler;
 import net.minecraft.item.Item;
+import net.minecraftforge.client.event.ModelRegistryEvent;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.fml.common.Mod;
@@ -12,6 +13,9 @@ import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.registries.IForgeRegistry;
+
+import java.util.ArrayList;
+import java.util.List;
 
 @Mod(
         modid = PBSRConstants.MOD_ID,
@@ -46,6 +50,11 @@ public class ProjectBSR {
         IForgeRegistry<Item> registry = event.getRegistry();
 
         ItemModule.loadModules(registry);
+    }
+
+    @SubscribeEvent
+    public static void onModelRegister(ModelRegistryEvent event){
+        proxy.registerModels();
     }
 
 }
