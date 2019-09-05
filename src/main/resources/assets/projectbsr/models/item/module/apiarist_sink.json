@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "projectbsr:items/modules/module_apiarist_sink"
+	}
+}

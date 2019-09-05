@@ -11,6 +11,9 @@ item.PipeItemsApiaristSink.tip3= - Can filter based on genetic properties and ge
 #Modules
 
 item.ModuleApiaristAnalyser=Bee Analyzer module
-item.projectbsr.module_apiarist_sink.name=BeeSink module
+item.projectbsr.module_apiarist_sink.name=BeeSink Module
+item.projectbsr.module_apiarist_sink.tip1=Type: Passive Destination
+item.projectbsr.module_apiarist_sink.tip2= - A passive destination for analyzed bees
+item.projectbsr.module_apiarist_sink.tip3= - Can filter based on genetic properties and genome.
 item.ModuleApiaristRefiller=Apiary Refiller module
 item.ModuleApiaristTerminus=Drone Terminus module

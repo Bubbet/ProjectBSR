@@ -39,21 +39,18 @@ public class ProjectBSR {
 
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent evt) {
-
         ProxyManager.load();
         NewGuiHandler.initialize();
-
     }
 
     @SubscribeEvent
     public void initItems(RegistryEvent.Register<Item> event) {
         IForgeRegistry<Item> registry = event.getRegistry();
-
         ItemModule.loadModules(registry);
     }
 
     @SubscribeEvent
-    public static void onModelRegister(ModelRegistryEvent event){
+    public void onModelRegister(ModelRegistryEvent event){
         proxy.registerModels();
     }
 
